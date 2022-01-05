@@ -1,19 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 05, 2022
+### Day 0: January 05, 2022, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: 96% done with Basic JavaScript. Started working towards cloning the UI of Twitter. The design part of it - not functionality.
+ 
+**Thoughts:** Feeling pretty good. I feel understanding recursion is going to take a couple of days.
 
-**Thoughts:** 
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** See Tweet for the image.
