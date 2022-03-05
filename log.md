@@ -15,3 +15,11 @@
 **Thoughts:** Good progress. I now understand how Asynchronous programming works in JavaScript.
 
 **Link to work:** NA
+
+### Day 59: March 04, 2022
+
+**Today's Progress**: Started creating a simple calculator using JavaScript. Completed the layout today. I plan to redo the same project using React and compare the development process. Completed the ES6 section on freeCodeCamp. Learned about NPM. Debugged a NextJS application - the Airbnb Clone.
+ 
+**Thoughts:** Feeling great.
+
+**Link to work:** NA
