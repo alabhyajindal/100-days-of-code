@@ -16,10 +16,18 @@
 
 **Link to work:** NA
 
-### Day 59: March 04, 2022
+### Day 60: March 05, 2022
 
 **Today's Progress**: Started creating a simple calculator using JavaScript. Completed the layout today. I plan to redo the same project using React and compare the development process. Completed the ES6 section on freeCodeCamp. Learned about NPM. Debugged a NextJS application - the Airbnb Clone.
  
 **Thoughts:** Feeling great.
+
+**Link to work:** NA
+
+### Day 61: March 06, 2022
+
+**Today's Progress**: - Created a landing page for an online library as part of the Hackathon at Devsnest. Working on this app is extremely enjoyable! I might add some features just for fun.
+ 
+**Thoughts:** Very proud of thef final result. Having the design of the final website while writing CSS makes everything super easy.
 
 **Link to work:** NA
