@@ -31,3 +31,11 @@
 **Thoughts:** Very proud of thef final result. Having the design of the final website while writing CSS makes everything super easy.
 
 **Link to work:** https://github.com/alabhyajindal/library
+
+### Day 62: March 07, 2022
+
+**Today's Progress**: - Relax day
+ 
+**Thoughts:** Feeling on top of the world
+
+**Link to work:** 
