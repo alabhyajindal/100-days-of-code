@@ -39,3 +39,11 @@
 **Thoughts:** Feeling on top of the world
 
 **Link to work:** 
+
+### Day 63: March 08, 2022
+
+**Today's Progress**: - Browsed the organizations on GSoC 2022. Worked a little on the calculator application, slow progress there. Practiced promises while browsing APIs.
+ 
+**Thoughts:** Could have done better. Removing the 'Link to Work' section here. Will put the link in the progress section if any going forward.
+
+
