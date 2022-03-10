@@ -46,4 +46,9 @@
  
 **Thoughts:** Could have done better. Removing the 'Link to Work' section here. Will put the link in the progress section if any going forward.
 
+### Day 65: March 10, 2022
+
+**Today's Progress**: - - Started React. I had earlier studied React by going through the documentation and exercises at https://beta.reactjs.org. I'm looking for a different resource this time. Something hands-on with lots of small projects. Started creating the calculator app using React. I feel like I need a refresher on React. I will be spending the next few days practicing fundamentals before picking up the calculator.
+ 
+**Thoughts:** A little shocked. I thought I will be able to run through the calculator app because I had studied React earlier. 
 
