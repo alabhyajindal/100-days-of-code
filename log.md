@@ -48,7 +48,12 @@
 
 ### Day 65: March 10, 2022
 
-**Today's Progress**: - - Started React. I had earlier studied React by going through the documentation and exercises at https://beta.reactjs.org. I'm looking for a different resource this time. Something hands-on with lots of small projects. Started creating the calculator app using React. I feel like I need a refresher on React. I will be spending the next few days practicing fundamentals before picking up the calculator.
+**Today's Progress**: Started React. I had earlier studied React by going through the documentation and exercises at https://beta.reactjs.org. I'm looking for a different resource this time. Something hands-on with lots of small projects. Started creating the calculator app using React. I feel like I need a refresher on React. I will be spending the next few days practicing fundamentals before picking up the calculator.
  
 **Thoughts:** A little shocked. I thought I will be able to run through the calculator app because I had studied React earlier. 
 
+### Day 68: March 13, 2022
+
+**Today's Progress**: - Learned about Props. Practiced passing props to a component. Practiced reading props from a component. 
+
+**Thoughts:** Slow and steady. I am having a lot of fun with React. 
