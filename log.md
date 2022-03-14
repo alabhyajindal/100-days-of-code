@@ -57,3 +57,9 @@
 **Today's Progress**: - Learned about Props. Practiced passing props to a component. Practiced reading props from a component. 
 
 **Thoughts:** Slow and steady. I am having a lot of fun with React. 
+
+### Day 69: March 14, 2022
+
+**Today's Progress**: - Learned about prop destructuring. Learned how to render components using the map() method. Completed exercises on the map() method.
+
+**Thoughts:** Good progress. Good practice with the map() method and how it's used in React.
